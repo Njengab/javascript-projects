@@ -1,4 +1,5 @@
 # javascript-projects
 a javascrip basic project
 # About me
-I am a passionate programmer!
+My name is benard njenga  and I am a passionate programmer!
+
